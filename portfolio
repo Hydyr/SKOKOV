@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Skokov</title>
+  <link rel="stylesheet" href="css/all.css" charset="utf-8">
+  <script src="js/jquery-1.9.1.min.js" charset="utf-8"></script>
+  <script src="js/owl.carousel.min.js" charset="utf-8"></script>
+  <script src="js/jquery.main.js" charset="utf-8"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+<body>
+  <div id="wrapper">
+    <div id="header">
+      <strong class="logo"><a href="index.html">skokov</a></strong>
+      <nav id="nav">
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li class="active"><a href="#">PORTFOLIO</a></li>
+          <li><a href="blog.html">BLOG</a></li>
+          <li><a href="about.html">about us</a></li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="contact">
+     <div class="container">
+      <h1 class="title">PORTFOLIO</h1>
+    </div>
+  </div>
+  <div class="portfolio">
+    <h1>WE CREATE QUALITY DESIGNS.</h1>
+    <h2>We specialize in Web Design / Development and Graphic Design</h2>
+  </div>
+  <div id="tabs">
+   <div class="container">
+    <ul>
+      <li class="active"><a href="#tabs-1">All</a></li>
+      <li><a href="#tabs-2">Website</a></li>
+      <li><a href="#tabs-3">Logo</a></li>
+      <li><a href="#tabs-4">UI kit</a></li>
+      <li><a href="#tabs-5">Photo</a></li>
+      <li><a href="#tabs-6">App Design</a></li>
+    </ul>
+  </div>
+</div>
+<div class="tab-content">
+  <div id="tabs-1">
+    <a href="project.html"><img src="images/portfolio1.jpg" alt=""></a>
+  </div>
+  <div id="tabs-2">
+    <a href="project.html"><img src="images/portfolio2.jpg" alt=""></a>
+  </div>
+  <div id="tabs-3">
+    <a href="project.html"><img src="images/portfolio3.jpg" alt=""></a>
+  </div>
+  <div id="tabs-4">
+    <a href="project.html"><img src="images/portfolio4.jpg" alt=""></a>
+  </div>
+  <div id="tabs-5">
+    <a href="project.html"><img src="images/portfolio5.jpg" alt=""></a>
+  </div>
+  <div id="tabs-6">
+    <a href="project.html"><img src="images/portfolio6.jpg" alt=""></a>
+  </div>
+  <div id="tabs-7">
+    <a href="project.html"><img src="images/portfolio7.jpg" alt=""></a>
+  </div>
+  <div id="tabs-8">
+    <a href="project.html"><img src="images/portfolio8.jpg" alt=""></a>
+  </div>
+  <div id="tabs-9">
+    <a href="project.html"><img src="images/portfolio9.jpg" alt=""></a>
+  </div>
+</div>
+<!--  FOOTER -->
+<div id="footer">
+  <div class="container">
+    <div class="block block1">
+      <p class="about">About Us</p><br>
+      <p class="ipsum">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br> 
+        sed diam nonummy nibh euismod tincidunt ut<br>
+        laoreet dolore magna aliquam erat volutpat. Ut wisi<br>
+        enim ad minim veniam, quis nostrud exerci tation ullamcorper<br>
+        suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+        <a href="#" class="btn1">Learn more</a>
+        <p class="photostream">Photo Stream</p>
+        <div class="photofooter">
+          <img src="images/f1.jpg" alt="">
+          <img src="images/f2.jpg" alt="">
+          <img src="images/f3.jpg" alt=""><br>
+          <img src="images/f4.jpg" alt="">
+          <img src="images/f5.jpg" alt="">
+          <img src="images/f6.jpg" alt="">
+        </div>
+      </div>
+      <div class="block block2">
+        <p class="latest">Latest tweets</p>
+        <div class="frombl">
+          <div class="bl">
+            <i class="fa fa-twitter tv"></i>
+            <p class="twit">Check Out Dtbaker's <span class="tw1"><a href="#">@Arduino</a></span> Sales Notification <span class="tw1"><a href="#">#System</a></span> 
+              http://t.co/ WBFKIWHJ<br> <span class="td1">3 days ago</span></p></div>
+              <div class="bl">
+                <i class="fa fa-twitter tv"></i>
+                <p class="twit">Community Superstar Winner – <span class="tw1"><a href="#">#OrganicBeeMedia</a></span>  
+                  http://t.co/2Fs1nnMj<br> <span class="td1">3 days ago</span></p></div>
+                  <div class="bl">
+                    <i class="fa fa-twitter tv"></i>
+                    <p class="twit">Clean <span class="tw1"><a href="#">#Websites</a></span> Designs for Your <span class="tw1"><a href="#">#Inspiration</a></span><br> 
+                      http://t.co/ SnRKu3HJ<br> <span class="td1">5 days ago</span></p></div>
+                      <div class="bl">
+                        <i class="fa fa-twitter tv"></i>
+                        <p class="twit">Cute Online <span class="tw1"><a href="#">#Shops</a></span> http://t.co/ 1PoQN3bJ<br> <span class="td1">6 days ago</span></p></div>
+                        <div class="bl">
+                          <i class="fa fa-twitter tv"></i>
+                          <p class="twit">Download 40 vector <span class="tw1"><a href="#">#icons</a></span> package for <span class="tw1"><a href="#">#FREE</a></span> http://t.co/2Fp5GLqn<br> <span class="td1">6 days ago</span></p></div></div>
+                          <p class="social1">Social Connecting</p>
+                          <span class="social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#"><i class="fa fa-internet-explorer"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"><i class="fa fa-youtube"></i></a>
+                            <a href="#"><i class="fa fa-vimeo"></i></a>
+                            <a href="#"><i class="fa fa-rss"></i></a>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                          </span>
+                        </div>
+                        <div class="block block3">
+                          <p class="contact1">Contact info</p>
+                          <div class="fromcnt">
+                           <div class="cnt">
+                            <i class="fa fa-map-marker"></i>
+                            <p class="adress">Address: 12569 Saint Patrick des Prés,<br> 85000 Paris, France</p></div>
+                            <div class="cnt">
+                             <div class="phonestart">
+                              <i class="fa fa-phone"></i>
+                              <p class="phone"> Phone: +38 045 845-45-78<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +38 045 845-45-79</p></div></div>
+                              <div class="cnt">
+                               <div class="emailstart">
+                                <i class="fa fa-envelope"></i>
+                                <p class="email"> E-mail: <a href="#">freeforwebdesign@gmail.com</a></p>
+                              </div></div>
+                              <p class="follow">Follow Us</p>
+                              <p class="lore">Lorem Ipsum is simply dummy text of the printing<br> and typesetting industry.</p>
+                              <div class="search">
+                                <form action="">
+                                  <input type="text" value>
+                                  <input type="submit" value>
+                                </form>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- </div> -->
+                      <div id="footer1">
+                        <div class="container">
+                          <p>Copyright 2013 - FreeForWebDesign.com - All Rights Reserved</p>
+                          <nav id="nav1">
+                            <ul>
+                              <li><a href="#">HOME</a></li>
+                              <li><a href="#">PORTFOLIO</a></li>
+                              <li><a href="#">BLOG</a></li>
+                              <li><a href="#">about us</a></li>
+                              <li><a href="#">CONTACT</a></li>
+                            </ul>
+                          </nav>
+                        </div>
+                      </div>
+                    </div>
+                  </body>
+                  </html>
